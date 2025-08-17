@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdullah-ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-ibrahim" height="30" width="40" /></a>
-<a href="https://fb.com/abdullah ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah ibrahim" height="30" width="40" /></a>
+<a href="[https://fb.com/abdullah ibrahim](https://www.facebook.com/abdullah.ibrahim.49944)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah ibrahim" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ibrahim087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ibrahim087" height="30" width="40" /></a>
 </p>
 
