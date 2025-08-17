@@ -1,4 +1,4 @@
-https://www.linkedin.com/in/abdullah-ibrahim-38050430b/
+[https://www.linkedin.com/in/abdullah-ibrahim-38050430b/](https://media.licdn.com/dms/image/v2/D4D16AQHiUFGFneprUg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719346424846?e=1758153600&v=beta&t=EhSjhatqAJK7o-ZvCY7xdR0Y27oSwrYSwE07fYgGVLo)
 
 <h1 align="center">Hi 👋, I'm Abdullah Ibrahim</h1>
 <h3 align="center">Web Developer</h3>
