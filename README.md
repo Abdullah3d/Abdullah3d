@@ -35,7 +35,3 @@ Email Me 👉 ✉️ **abdullah.ibrahim.2411@gmail.com** for Collaboration/Proje
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abdullah-3d&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=abdullah3d&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
