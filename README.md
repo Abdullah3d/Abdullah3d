@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ibrahim</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | React Specialist</h3>
+
+<p align="center">
+  🚀 Full Stack Developer (MERN) | ⚡ React Specialist | 🌍 Bangladesh
+</p>
 
 <p align="center">
   <a href="mailto:abdullah.ibrahim.2411@gmail.com">
@@ -15,71 +18,88 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-- 🔭 Currently working on **React & Full Stack Projects**
-- 🌱 Learning **Next.js, Performance Optimization, System Design**
-- 👯 Open to collaborate on **Full Stack Applications**
-- 💬 Ask me about **React, JavaScript, APIs, MERN Stack**
-- ⚡ Fun fact: *I love turning ideas into real products*
+- 💻 Full Stack Developer focused on **scalable web applications**
+- ⚛️ Strong in **React, JavaScript (ES6+), and modern frontend architecture**
+- 🔗 Backend experience with **Node.js, Express, MongoDB**
+- 📦 Skilled in **REST API design, JWT authentication**
+- 🚀 Currently learning **Next.js, System Design & Performance Optimization**
+- 🎯 Goal: Build **production-level SaaS products**
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+### 🚀 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
 
 ### ⚙️ Backend
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
-### 🗄️ Database
+### 🗄️ Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
 
-### 🛠️ Tools
+### 🧰 Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+🔹 **E-Commerce Platform (MERN)**
+- Full stack app with authentication, cart, payment system
+- Tech: React, Node.js, MongoDB
+
+🔹 **AI Student Feedback Analyzer**
+- Sentiment analysis + dashboard
+- Tech: Python, ML, React
+
+🔹 **Portfolio Website**
+- Fully responsive, animated UI
+- Tech: React, Tailwind
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah3d&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=abdullah3d&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah3d&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullah3d&show_icons=true&theme=radical" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=abdullah3d&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah3d&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullah3d&theme=radical&no-frame=true&margin-w=5" />
-</p>
-
----
-
-## 🔥 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=abdullah3d&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
+- 🥇 Built multiple **production-ready full stack apps**
+- 🚀 Strong understanding of **frontend architecture**
+- 💡 Problem solver (Competitive Programming background)
+- 📈 Consistent GitHub contributor
 
 ---
 
-## 🧠 Quote
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah3d&theme=react-dark" />
 </p>
 
 ---
@@ -92,12 +112,23 @@
 
 ---
 
-## 💡 Goals
+## 🎯 2026 Goals
 
-- 🔥 Become a **Top Full Stack Developer**
-- 🚀 Build **Real World SaaS Projects**
-- 🌍 Work in **Global Tech Companies**
+- 🔥 Master **System Design**
+- 🚀 Build **SaaS Product**
+- 🌍 Get **Remote Developer Job**
+- 🧠 Learn **AI Integration in Web Apps**
 
 ---
 
-<p align="center">✨ Keep Learning | Keep Building | Keep Growing 🚀</p>
+## 💬 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  ⚡ "Code. Build. Scale. Repeat." ⚡
+</p>
